@@ -1,0 +1,31 @@
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\bin\Debug\Инфа 5.exe.config
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\obj\Debug\Инфа 5.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\obj\Debug\Инфа_5.Form1.resources
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\obj\Debug\Инфа_5.Properties.Resources.resources
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\obj\Debug\Инфа 5.csproj.GenerateResource.Cache
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\bin\Debug\Инфа 5.exe
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\bin\Debug\Инфа 5.pdb
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\obj\Debug\Инфа 5.exe
+c:\users\иван\documents\visual studio 2013\Projects\Инфа 5\Инфа 5\obj\Debug\Инфа 5.pdb
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\bin\Debug\Инфа 5.exe.config
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\obj\Debug\Инфа 5.exe
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\obj\Debug\Инфа 5.pdb
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\bin\Debug\Инфа 5.exe
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\bin\Debug\Инфа 5.pdb
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\obj\Debug\Инфа 5.csprojResolveAssemblyReference.cache
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\obj\Debug\Инфа_5.Form1.resources
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\obj\Debug\Инфа_5.Properties.Resources.resources
+D:\УЧЕБА\Хлам\Инфа 5\Инфа 5\obj\Debug\Инфа 5.csproj.GenerateResource.Cache
+D:\УЧЕБА_БАКА\Хлам\Инфа 5\Инфа 5\bin\Debug\Инфа 5.exe.config
+D:\УЧЕБА_БАКА\Хлам\Инфа 5\Инфа 5\obj\Debug\Инфа 5.exe
+D:\УЧЕБА_БАКА\Хлам\Инфа 5\Инфа 5\obj\Debug\Инфа 5.pdb
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\bin\Debug\Инфа 5.exe.config
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\bin\Debug\Инфа 5.exe
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\bin\Debug\Инфа 5.pdb
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\obj\Debug\Инфа 5.csprojResolveAssemblyReference.cache
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\obj\Debug\Инфа_5.Form1.resources
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\obj\Debug\Инфа_5.Properties.Resources.resources
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\obj\Debug\Инфа 5.csproj.GenerateResource.Cache
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\obj\Debug\Инфа 5.csproj.CoreCompileInputs.cache
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\obj\Debug\Инфа 5.exe
+C:\Users\gener\Downloads\Infa_5\Инфа 5\Инфа 5\obj\Debug\Инфа 5.pdb
